@@ -1,0 +1,16 @@
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 55px;
+  background-color: #e6e6e6;
+  padding: 0 10px;
+}
+
+.components-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

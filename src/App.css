@@ -1,0 +1,138 @@
+.App {
+  text-align: center;
+}
+
+.breadcrumbLink {
+  color: #0085FC;
+}
+
+.typographyName {
+  color: #6C757D;
+}
+
+.breadcrumbsWrapper {
+  position: fixed;
+  display: flex;
+  bottom: 10px;
+  width: calc(100% - 40px);
+ }
+
+.breadcrumbs {
+  background: #E9ECEF;
+  display: inline-flex;
+  padding: 20px 15px;
+  border-radius: 5px;
+  font-size: 14pt !important; 
+  width: 100%;
+ }
+
+.list-item {
+  transition: all 0.2s ease-out;
+}
+ .list-item:hover {
+  color: #0085FC;
+ }
+
+ .contentBand {
+    
+ }
+
+ .Body {
+  padding: 20px;
+  box-sizing: border-box;
+ }
+
+ .Issue {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: chocolate;
+  border-radius: 10px;
+ }
+
+ .DataManagers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: darkgoldenrod;
+  border-radius: 10px;
+ }
+
+ .Reporting {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: cornflowerblue;
+  border-radius: 10px;
+ }
+
+ .UserManagement {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: palegreen;
+  border-radius: 10px;
+ }
+
+ .Audit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: salmon;
+  border-radius: 10px;
+ }
+
+ .ActionPlan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: indianred;
+  border-radius: 10px;
+ }
+
+ .Test {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: wheat;
+  border-radius: 10px;
+ }
+
+ .Dashboard {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: cadetblue;
+  border-radius: 10px;
+  padding-top: 40px;
+ }
+
+ .Home {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+  height: calc(100vh - 165px);
+  background-color: darkgray;
+  border-radius: 10px;
+  padding-top: 40px;
+ }
+ 
